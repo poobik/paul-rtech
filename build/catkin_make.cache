@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/paul/paul-rtech/devel -DCMAKE_INSTALL_PREFIX=/home/paul/paul-rtech/install -G Unix Makefiles
